@@ -10,7 +10,14 @@ h2 {
   color: rgb(0, 0, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
-  
 }
+
+p {
+  color: rgb(220, 223, 228);
+  background-color: rgb(39, 39, 39);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
 
 
