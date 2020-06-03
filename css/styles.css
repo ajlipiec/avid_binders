@@ -1,15 +1,16 @@
 h1  {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: rgb(24, 63, 50);
+  color: rgb(220, 223, 228);
   text-align: center;
+  background-color: rgb(39, 39, 39);
 }
 
 h2 {
-  
-  background-color: rgb(40, 94, 87);
-  color: rgb(24, 30, 104);
+  background-color: rgb(220, 223, 228);
+  color: rgb(0, 0, 0);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
   
 }
+
 
