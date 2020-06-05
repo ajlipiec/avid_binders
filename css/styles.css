@@ -34,4 +34,21 @@ h3 {
   opacity: .8;
 }
 
+/* Beggining of one-page journal formatting */
 
+.journal_format {
+  background-color: rgb(39, 39, 39);
+  padding: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(220, 223, 228);
+
+}
+
+.journal_left {
+  float: left;
+
+}
+
+.journal_right {
+  float: right
+}
