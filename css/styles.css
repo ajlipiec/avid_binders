@@ -26,6 +26,19 @@ a {
 h3 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 28px;
+  text-align: center;
+}
+
+#button {
+  text-decoration: none; 
+  color: rgb(13, 13, 14); background-color: seashell;
+  font-size: 30px;
+
+}
+
+#button2 {
+  text-decoration: none; 
+  color: rgb(175, 158, 142);
 }
 
 .centered_opac {
@@ -38,17 +51,29 @@ h3 {
   font-size: 20px;
   margin: 0 auto;
   opacity: .9;
-  
+}
+
+.centered_opac img {
+  opacity: 1;
+  width: 400px;
 }
 
 .journal_format {
   background-color: rgb(39, 39, 39);
-  padding: 10%;
+  align-items: center;
   font-family: 'Courier New', Courier, monospace;
   color: rgb(220, 223, 228);
   text-align: center;
+  width: 80%;
+  padding: 50px 50px 50px 50px;
+  margin: 0 auto;
   
 }
+
+.journal_format img {
+  width: 250px;
+}
+
 
 .journal_left {
   float: left;
